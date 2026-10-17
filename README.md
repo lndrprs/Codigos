@@ -14,7 +14,7 @@
 ----
 
 <details>
-  <summary><b> 1. Python - Referência: <a href="https://prometheus.io/docs/introduction/overview/"> Documentação Técnica</a></b></summary>
+  <summary><b> 1. Python - Referência: <a href="https://www.python.org/doc/"> Documentação Técnica</a></b></summary>
   <div align="left">
     
 <br>
@@ -36,3 +36,5 @@
 
 </div>
 </details>
+
+----
