@@ -28,6 +28,7 @@
 | Nome  | Descrição |
 |-------|-----------|
 | jogo_matematica.py | Jogo de Matemática CLI |
+| jogo_memoria.py | Jogo de Memorização CLI |
 
 <br>
 
